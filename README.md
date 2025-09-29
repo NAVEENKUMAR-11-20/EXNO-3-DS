@@ -267,6 +267,7 @@ plt.show()
 
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+  Thus the given data, Feature Encoding, Transformation process and save the data to a file
+ was performed successfully
 
        
