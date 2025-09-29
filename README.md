@@ -42,7 +42,9 @@ REG NO: 212224240102
  df
 
 ```
+
 <img width="1265" height="466" alt="image" src="https://github.com/user-attachments/assets/74c4442c-add6-4406-bef0-180b6bf58df1" />
+
 ```python
 
 from sklearn.preprocessing import LabelEncoder,OrdinalEncoder
