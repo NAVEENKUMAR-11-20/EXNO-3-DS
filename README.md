@@ -31,6 +31,10 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
+```
+NAME  : NAVEEN KUMAR P
+REG NO: 212224240102
+```
 ```python
 
  import pandas as pd
@@ -39,7 +43,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 ```
 <img width="1265" height="466" alt="image" src="https://github.com/user-attachments/assets/74c4442c-add6-4406-bef0-180b6bf58df1" />
-```pyhton
+```python
 
 from sklearn.preprocessing import LabelEncoder,OrdinalEncoder
 pm=['Hot','Warm','Cold']
